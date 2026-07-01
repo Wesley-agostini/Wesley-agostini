@@ -7,9 +7,9 @@
 
 ### あなたを信頼しなければならないから
 
-Sou um estudante de Ciência da Computação apaixonado por transformar ideias em interfaces escaláveis, bonitas e bem projetadas.
+The world may have decided who you should be, but your mask serves only to hide the true power of breaking free. Tear it off, face your true essence, and seize your future. The show is just beginning.
 
-Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre priorizando código limpo, arquitetura sólida e ótima experiência do usuário.
+Come over here right now, Arsène.
 
 ---
 
